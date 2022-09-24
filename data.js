@@ -4,6 +4,6 @@ export const Data =[
         username: "shaunnoronha",
         branch: "ISE",
         year: "3rd",
-    },
+    }
     
 ];
